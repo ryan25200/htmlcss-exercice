@@ -1,0 +1,13 @@
+body {
+    width: 500px;
+    margin: 0 auto;
+    
+    padding: 100px;
+    margin: 10px;
+    border-radius: 5px;
+    
+    position: sticky;
+    top: 500px;
+    left: 500px;
+    text-align: center;
+  }

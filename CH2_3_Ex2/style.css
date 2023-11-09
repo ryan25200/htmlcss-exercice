@@ -1,0 +1,28 @@
+body {
+    background-color: #556B2F;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-image: url(images/pingouin.png);
+    height: 100%;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+    color: white;
+    background-color: rgb(224, 157, 10);
+}
+
+article {
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: red;
+    color: #0095B6;
+}
+
+bap {
+    background-color: rgb(224, 157, 10);
+}

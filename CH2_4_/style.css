@@ -1,0 +1,53 @@
+body {
+    background-color: #808080;
+    color: white;
+}
+
+article {
+    margin-left: 5%;
+    margin-bottom: 4%;
+    margin-right: 5%;
+    background-image: url(images/pingouin.png);
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+}
+
+.article-1 {
+    background-color: rgb(68, 102, 102, 0.450);
+    border-style: dashed;
+    border-color: orange;
+    border-radius: 5px;
+    border-width: 15px;
+    background-size: 150px 150px;
+}
+
+.article-2 {
+    background-color: rgb(68, 102, 68, 0.450);
+    border-style: dashed;
+    border-color: orange;
+    border-radius: 5px;
+    border-width: 15px;
+    background-clip: content-box;
+    background-size: 300px 300px;
+}
+
+.article-3 {
+    background-color: rgb(102, 68, 102, 0.450);
+    border-style: dashed;
+    border-color: orange;
+    border-radius: 5px;
+    border-width: 15px;
+    background-clip: content-box;
+    padding: 15px;
+    background-size: 150px 150px;
+}
+
+p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h3 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
